@@ -7,3 +7,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ![puma](https://github.com/AndreaMatusova/You-should-hire-me-because-/blob/master/puma.png)
 
 
+![pumad](https://www.muziker.sk/puma-ignite-pwradapt-jrs-puma-black-3)
+
