@@ -9,3 +9,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![pumad](https://www.muziker.sk/puma-ignite-pwradapt-jrs-puma-black-3)
 
+<img src="../puma.png" />
