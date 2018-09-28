@@ -4,6 +4,6 @@ You can use the [editor on GitHub](https://github.com/AndreaMatusova/You-should-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![puma](You-should-hire-me-because-/puma.png)
+![puma](https://github.com/AndreaMatusova/You-should-hire-me-because-/blob/master/puma.png)
 
 
